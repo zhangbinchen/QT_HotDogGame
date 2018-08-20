@@ -1,0 +1,39 @@
+<RCC>
+    <qresource prefix="/">
+        <file>image/back.png</file>
+        <file>image/gonxi.png</file>
+        <file>image/hamburger.png</file>
+        <file>image/hotdog.png</file>
+        <file>image/start1.png</file>
+        <file>image/BackButton.png</file>
+        <file>image/BackButtonSelected.png</file>
+        <file>image/BackButtonSound.wav</file>
+        <file>image/BoardNode.png</file>
+        <file>image/ConFlipSound.wav</file>
+        <file>image/LevelWinSound.wav</file>
+        <file>image/TapButtonSound.wav</file>
+        <file>image/startok.png</file>
+        <file>image/f11meet.png</file>
+        <file>image/smallmeet.png</file>
+        <file>image/haibao.png</file>
+        <file>image/paidaxing.gif</file>
+        <file>image/Food_back.png</file>
+        <file>image/smallhumbg.png</file>
+        <file>image/smallhotdog.png</file>
+        <file>image/food/smallhotdog1.png</file>
+        <file>image/food/smallhotdog2.png</file>
+        <file>image/food/smallhotdog3 .png</file>
+        <file>image/food/smallhotdog4.png</file>
+        <file>image/food/smallhotdog5.png</file>
+        <file>image/food/smallhotdog6 .png</file>
+        <file>image/food/smallhotdog7.png</file>
+        <file>image/food/smallhotdog8.png</file>
+        <file>image/over.wav</file>
+        <file>image/win.mp3</file>
+        <file>image/youzha.wav</file>
+        <file>image/bbq.wav</file>
+        <file>image/eat.wav</file>
+        <file>image/baack.png</file>
+        <file>image/back2.png</file>
+    </qresource>
+</RCC>
